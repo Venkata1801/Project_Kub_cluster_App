@@ -1,5 +1,5 @@
 # Project Name :Kubernetes Vote application 
-This project demonstrates hoe to deploy a microservices-based Voting application using kubernetes. This application allows user to between two options example cats vs dogs.
+This project demonstrates how to deploy a microservices-based Voting application using kubernetes. This application allows user to between two options example cats vs dogs.
 
 # Deployment of the Kubernetes Cluster
 Step 1 : Login to the GCP Via - https://console.cloud.google.com/kubernetes/
